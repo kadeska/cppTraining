@@ -11,3 +11,7 @@ My setup is built on a Ubuntu Linux computer. I used [these instructions](https:
 4) Shader Compiler
 
 If you dont daily drive Linux like me, dont panic! The above mentioned instructions also have Windows and Mac instructions just for you! Yay! After installing the above listed packages you *should* be good-to-go for compilling and running this project on your own system. If you find that it doesnt work for whatever reason, please refer yourself back to the above mentioned [instructions](https://vulkan-tutorial.com/Development_environment) and follow the proper development evironment set up for your computer. You shouldn't run accros any issues. If you do than please post an issue thread and someone will do their best to help you. 
+
+
+#### IMPORTAINT! 
+If you are wanting to compile and run this code on a *Non linux* computer, than you must recompile the shaders seperatly first for your given OS. I recommend you follow [this tutorial](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Shader_modules) and scroll down to *Compiling the shaders* and follow the steps for your OS. After that, you should be off to the races! Wohoo!! 
