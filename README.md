@@ -15,3 +15,12 @@ If you dont daily drive Linux like me, dont panic! The above mentioned instructi
 
 #### IMPORTAINT! 
 If you are wanting to compile and run this code on a *Non linux* computer, than you must recompile the shaders seperatly first for your given OS. I recommend you follow [this tutorial](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Shader_modules) and scroll down to *Compiling the shaders* and follow the steps for your OS. After that, you should be off to the races! Wohoo!! 
+
+For a brief explanation, navigate to where you installed the VulkanSDK and locate the file named *"glslc"* and copy the file path in the *"compile.sh"* for linux and MacOS, or *"compile.bat"* for windows. The compile script should look something like what you see in the *compile.sh* file located in this project under *src/*. The first part is the location of your *"glslc"* file, followed by your shader file location, (both *".vert"* and *".frag"* files on seperate lines) *-o* is to specify the compiled ouput file name, so it would be the same file location and name but add the *".spv"* file extention at the end to indicate the compiled shader code. 
+
+Than in termanal at the same working directory as you *compile* script run *'chmod +x compile.sh'* Than run the script with *'./compile.sh'*. You should see two new files in the *src/shaders/* directory with the *'.spv'* file extention. 
+
+On MacOS you may incounter an error saying "this program can not be trusted", the easiest solution to this is to install the compiler saperatly using Homebrew with the command *'brew install glslang'* than use the command *'where glslc'* to get the path to the compiler you just installed. Copy that path and use this path instead in the *compile.sh* script. 
+
+On Windows open file explorer and navigate to */../VulkanSDK/version_number/Bin32/glslc* if you hold *Shift* and right click that file you should be able to *copy as path*. Paste that path without the qoutations into the *compile.bat* file located in this project into where is says *"Your path to 'glslc.exe'"*. Than in your file explorer double click the *compile.bat* file and now you should see the compiled shader code in the *'src/shaders/'* location. 
+
