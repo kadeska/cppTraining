@@ -1,0 +1,4 @@
+/home/joseph/Downloads/vulkanSDK/1.3.216.0/x86_64/lib/pkgconfig/vulkan.pc
+/home/joseph/Downloads/vulkanSDK/1.3.216.0/x86_64/lib/libvulkan.so.1.3.216
+/home/joseph/Downloads/vulkanSDK/1.3.216.0/x86_64/lib/libvulkan.so.1
+/home/joseph/Downloads/vulkanSDK/1.3.216.0/x86_64/lib/libvulkan.so

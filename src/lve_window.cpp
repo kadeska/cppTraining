@@ -1,20 +1,3 @@
-#include "lve_window.hpp"
-
-namespace lve {
-    LveWindow::LveWindow(int w, int h, std::string name) : width{w}, height{h}, windowName{name}{
-        initWindow();
-    }
-
-    LveWindow::~LveWindow(){
-        glfwDestroyWindow(window);
-        glfwTerminate();
-    }
-
-    void LveWindow::initWindow() {
-        glfwInit();
-        glfwWindowHint(GLFW_CLIENT_API, GLFW_NO_API);
-        glfwWindowHint(GLFW_RESIZABLE, GLFW_FALSE);
-
-        window = glfwCreateWindow(width, height, windowName.c_str(), nullptr, nullptr);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b57eb6accd18c09d0e0a2555d84cc63e677a0dba9631a7c6d25fd770f8aae22
+size 523

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/unknown_ext_chain_gas_x86.S
+cet.h
+-
+

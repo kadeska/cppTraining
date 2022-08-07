@@ -1,0 +1,95 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "ASM"
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_ASM
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/unknown_ext_chain_gas_x86.S" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/unknown_ext_chain_gas_x86.S.o"
+  )
+set(CMAKE_ASM_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_ASM
+  "API_NAME=\"Vulkan\""
+  "FALLBACK_CONFIG_DIRS=\"/etc/xdg\""
+  "FALLBACK_DATA_DIRS=\"/usr/local/share:/usr/share\""
+  "HAVE_CET_H"
+  "HAVE_SECURE_GETENV"
+  "LOADER_ENABLE_LINUX_SORT"
+  "SYSCONFDIR=\"/etc\""
+  "VK_ENABLE_BETA_EXTENSIONS"
+  "VK_USE_PLATFORM_WAYLAND_KHR"
+  "VK_USE_PLATFORM_XCB_KHR"
+  "VK_USE_PLATFORM_XLIB_KHR"
+  "VK_USE_PLATFORM_XLIB_XRANDR_EXT"
+  "_GNU_SOURCE"
+  "vulkan_EXPORTS"
+  )
+
+# The include file search paths:
+set(CMAKE_ASM_TARGET_INCLUDE_PATH
+  "../loader"
+  "../loader/generated"
+  "loader"
+  "/usr/include"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/x86_64/include"
+  )
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/allocation.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/allocation.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/cJSON.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/cJSON.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/debug_utils.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/debug_utils.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/dev_ext_trampoline.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/dev_ext_trampoline.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/extension_manual.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/extension_manual.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/get_environment.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/get_environment.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/gpa_helper.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/gpa_helper.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/loader.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/loader.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/loader_linux.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/loader_linux.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/log.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/log.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/phys_dev_ext.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/phys_dev_ext.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/terminator.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/terminator.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/trampoline.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/trampoline.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/unknown_function_handling.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/unknown_function_handling.c.o"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/loader/wsi.c" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/CMakeFiles/vulkan.dir/wsi.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_C
+  "API_NAME=\"Vulkan\""
+  "FALLBACK_CONFIG_DIRS=\"/etc/xdg\""
+  "FALLBACK_DATA_DIRS=\"/usr/local/share:/usr/share\""
+  "HAVE_CET_H"
+  "HAVE_SECURE_GETENV"
+  "LOADER_ENABLE_LINUX_SORT"
+  "SYSCONFDIR=\"/etc\""
+  "VK_ENABLE_BETA_EXTENSIONS"
+  "VK_USE_PLATFORM_WAYLAND_KHR"
+  "VK_USE_PLATFORM_XCB_KHR"
+  "VK_USE_PLATFORM_XLIB_KHR"
+  "VK_USE_PLATFORM_XLIB_XRANDR_EXT"
+  "_GNU_SOURCE"
+  "vulkan_EXPORTS"
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../loader"
+  "../loader/generated"
+  "loader"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/x86_64/include"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/libvulkan.so" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/libvulkan.so.1.3.216"
+  "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/libvulkan.so.1" "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Loader/build/loader/libvulkan.so.1.3.216"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

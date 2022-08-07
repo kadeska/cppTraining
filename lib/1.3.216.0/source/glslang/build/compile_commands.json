@@ -1,0 +1,287 @@
+[
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -o CMakeFiles/glslang.dir/CInterface/glslang_c_interface.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/CInterface/glslang_c_interface.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/CInterface/glslang_c_interface.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -x c++-header -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.gch -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.cxx",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/glslang_tab.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/glslang_tab.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/glslang_tab.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/attribute.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/attribute.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/attribute.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Constant.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Constant.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Constant.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/iomapper.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/iomapper.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/iomapper.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/InfoSink.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/InfoSink.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/InfoSink.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Initialize.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Initialize.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Initialize.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/IntermTraverse.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/IntermTraverse.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/IntermTraverse.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Intermediate.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Intermediate.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Intermediate.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseContextBase.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/ParseContextBase.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/ParseContextBase.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseHelper.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/ParseHelper.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/ParseHelper.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/PoolAlloc.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/PoolAlloc.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/PoolAlloc.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/RemoveTree.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/RemoveTree.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/RemoveTree.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Scan.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Scan.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Scan.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/ShaderLang.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/ShaderLang.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/ShaderLang.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/SpirvIntrinsics.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/SpirvIntrinsics.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/SpirvIntrinsics.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/SymbolTable.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/SymbolTable.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/SymbolTable.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Versions.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Versions.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/Versions.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/intermOut.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/intermOut.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/intermOut.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/limits.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/limits.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/limits.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/linkValidate.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/linkValidate.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/linkValidate.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/parseConst.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/parseConst.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/parseConst.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/reflection.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/reflection.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/reflection.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/Pp.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/Pp.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/Pp.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpAtom.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpAtom.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpAtom.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpContext.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpContext.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpContext.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpScanner.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpScanner.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpScanner.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpTokens.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpTokens.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/preprocessor/PpTokens.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/propagateNoContraction.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/propagateNoContraction.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/MachineIndependent/propagateNoContraction.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/HLSL/hlslAttributes.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslAttributes.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslAttributes.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/HLSL/hlslParseHelper.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslParseHelper.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslParseHelper.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/HLSL/hlslScanContext.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslScanContext.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslScanContext.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/HLSL/hlslOpMap.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslOpMap.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslOpMap.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/HLSL/hlslTokenStream.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslTokenStream.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslTokenStream.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/HLSL/hlslGrammar.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslGrammar.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslGrammar.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/HLSL/hlslParseables.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslParseables.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/HLSL/hlslParseables.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/GenericCodeGen.dir/GenericCodeGen/CodeGen.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/GenericCodeGen/CodeGen.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/GenericCodeGen/CodeGen.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/GenericCodeGen.dir/GenericCodeGen/Link.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/GenericCodeGen/Link.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/GenericCodeGen/Link.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/glslang/OSDependent/Unix",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -o CMakeFiles/OSDependent.dir/ossource.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/OSDependent/Unix/ossource.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/OSDependent/Unix/ossource.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/OGLCompilersDLL",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/OGLCompiler.dir/InitializeDll.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/OGLCompilersDLL/InitializeDll.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/OGLCompilersDLL/InitializeDll.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/StandAlone",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang  -O3 -DNDEBUG   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/spirv-remap.dir/spirv-remap.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/spirv-remap.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/spirv-remap.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/StandAlone",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/../External -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/glslang/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang  -O3 -DNDEBUG   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/glslangValidator.dir/StandAlone.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/StandAlone.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/StandAlone.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/StandAlone",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/glslang-default-resource-limits.dir/ResourceLimits.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/ResourceLimits.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/ResourceLimits.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/StandAlone",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/glslang-default-resource-limits.dir/resource_limits_c.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/resource_limits_c.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/StandAlone/resource_limits_c.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPVRemapper.dir/SPVRemapper.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SPVRemapper.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SPVRemapper.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPVRemapper.dir/doc.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/doc.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/doc.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/GlslangToSpv.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/GlslangToSpv.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/GlslangToSpv.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/InReadableOrder.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/InReadableOrder.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/InReadableOrder.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/Logger.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/Logger.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/Logger.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/SpvBuilder.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SpvBuilder.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SpvBuilder.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/SpvPostProcess.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SpvPostProcess.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SpvPostProcess.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/doc.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/doc.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/doc.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/SpvTools.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SpvTools.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/SpvTools.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/disassemble.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/disassemble.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/disassemble.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/.. -I/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/CInterface/spirv_c_interface.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/CInterface/spirv_c_interface.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/SPIRV/CInterface/spirv_c_interface.cpp"
+},
+{
+  "directory": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/build/hlsl",
+  "command": "/usr/bin/c++  -DENABLE_HLSL -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/HLSL.dir/stub.cpp.o -c /home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/hlsl/stub.cpp",
+  "file": "/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/glslang/hlsl/stub.cpp"
+}
+]

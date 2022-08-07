@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/spirv-diff.dir/diff/diff.cpp.o CMakeFiles/spirv-diff.dir/util/cli_consumer.cpp.o  -o spirv-diff  ../source/diff/libSPIRV-Tools-diff.a ../source/opt/libSPIRV-Tools-opt.a ../source/libSPIRV-Tools.a -lrt 
