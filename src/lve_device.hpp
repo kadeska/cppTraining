@@ -14,6 +14,7 @@ struct SwapChainSupportDetails {
   std::vector<VkPresentModeKHR> presentModes;
 };
 
+
 struct QueueFamilyIndices {
   uint32_t graphicsFamily;
   uint32_t presentFamily;
