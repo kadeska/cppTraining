@@ -1,6 +1,0 @@
-/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Headers/build/CMakeFiles/install/local.dir
-/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Headers/build/CMakeFiles/edit_cache.dir
-/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Headers/build/CMakeFiles/uninstall.dir
-/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Headers/build/CMakeFiles/install.dir
-/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Headers/build/CMakeFiles/list_install_components.dir
-/home/joseph/Downloads/vulkanSDK/1.3.216.0/source/Vulkan-Headers/build/CMakeFiles/rebuild_cache.dir

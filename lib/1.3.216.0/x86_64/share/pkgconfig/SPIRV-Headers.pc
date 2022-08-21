@@ -1,9 +1,0 @@
-prefix=/home/joseph/Downloads/vulkanSDK/1.3.216.0/x86_64
-includedir=${prefix}/include
-
-Name: SPIRV-Headers
-Description: Header files from the SPIR-V registry
-Version: 1.5.5
-Requires:
-Libs:
-Cflags: -I${includedir}

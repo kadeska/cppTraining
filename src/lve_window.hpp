@@ -1,25 +1,3 @@
-#define GLFW_INCLUDE_VULCAN
-#include <GLFW/glfw3.h>
-#include <string>
-
-
-namespace lve {
-    class LveWindow {
-        public:
-        LveWindow(int w, int h, std::string name);
-        ~LveWindow();
-
-        LveWindow(const LveWindow &) = delete;
-        LveWindow &operator=(const LveWindow &) = delete;
-
-        bool shouldClose() {return glfwWindowShouldClose(window); }
-
-        private:
-        void initWindow();
-        const int width;
-        const int height;
-        std::string windowName;
-
-        GLFWwindow *window;
-    };
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:93e3965d31f2dc680940d42fe0a959ed4846b17789fc989e11eecad813e198e8
+size 614

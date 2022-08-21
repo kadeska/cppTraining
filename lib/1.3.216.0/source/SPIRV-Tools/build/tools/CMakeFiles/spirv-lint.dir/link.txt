@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/spirv-lint.dir/lint/lint.cpp.o CMakeFiles/spirv-lint.dir/util/cli_consumer.cpp.o  -o spirv-lint  ../source/lint/libSPIRV-Tools-lint.a ../source/opt/libSPIRV-Tools-opt.a ../source/libSPIRV-Tools.a -lrt 

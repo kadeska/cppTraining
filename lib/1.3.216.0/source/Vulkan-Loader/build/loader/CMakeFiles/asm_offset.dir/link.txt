@@ -1,1 +1,0 @@
-/usr/bin/cc -O2 -g -DNDEBUG   CMakeFiles/asm_offset.dir/asm_offset.c.o  -o asm_offset 
